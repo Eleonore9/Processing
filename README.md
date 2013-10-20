@@ -2,7 +2,7 @@ My Processing Sketchbook
 ========================
 
 
-Processing (<processing.org/>) is a programming languages derived from Java and an IDE. It is a tool to create interactive art pieces and visualisations.
+Processing (processing.org/) is a programming languages derived from Java and an IDE. It is a tool to create interactive art pieces and visualisations.
 
 I started learning Processing recently and I am midway through the Coursera course "Introduction to Computational Arts".
 Here are sketches from my processing sketchbook:
