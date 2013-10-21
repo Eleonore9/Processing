@@ -22,6 +22,10 @@ body {
 .navbar-inner {
 	background-image: url('gplaypattern.png');
 }
+.sketch1 {
+	background-color: #F55B73;
+	opacity: 0.5;
+}
 /* custom navbar */
 .navbar .brand {
 	margin-left: auto;
@@ -30,16 +34,9 @@ body {
 	float: none;
 	display: inline-block;
 	color: #911BA3;
-	width: 80%;
+	width: 60%;
 }
 /* center canvas */
-.canvas1 {
-	display: inline-block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	position: relative;
-}
 #canvas1 {
 	display: inline-block;
 	margin-left: auto;
