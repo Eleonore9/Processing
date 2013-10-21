@@ -19,6 +19,9 @@ h4 {
 body {
 	background-image: url('paper.png');
 }
+.navbar {
+	background-image: url('gplaypattern.png');
+}
 /* center canvas */
 .canvas1 {
 	display: inline-block;
