@@ -19,7 +19,7 @@ p {
 body {
 	background-image: url('paper.png');
 }
-.navbar-inner {
+.navbar {
 	background-image: url('gplaypattern.png');
 }
 .sketch1 {
@@ -35,7 +35,7 @@ body {
 	color: #911BA3;
 	max-width: 90%;
 }
-.navbar li {
+.navbar li a {
 	float: right;
 }
 /* center canvas */
