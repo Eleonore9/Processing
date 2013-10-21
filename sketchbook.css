@@ -27,6 +27,7 @@ body {
 	border-radius: 5px 5px 5px 5px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 10%;
 	display: inline-block;
 }
 /* custom navbar */
@@ -48,5 +49,5 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	margin-left: 10%;
+	max-width: 500px;
 }
