@@ -24,6 +24,10 @@ body {
 }
 .sketch1 {
 	background-color: #F55B73;
+	border-radius: 5px 5px 5px 5px;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
 }
 /* custom navbar */
 .navbar .brand {
