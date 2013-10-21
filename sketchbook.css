@@ -27,7 +27,7 @@ body {
 	border-radius: 5px 5px 5px 5px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 10%;
+	margin-top: 5%;
 	padding-top: 2%;
 	padding-left: 4%;
 	padding-right: 4%;
@@ -48,7 +48,7 @@ body {
 	float: right;
 }
 /* center canvas */
-#canvas1 {
+canvas {
 	display: inline-block;
 	margin-top: 2%;
 	margin-left: auto;
