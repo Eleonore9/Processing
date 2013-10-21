@@ -42,7 +42,7 @@ body {
 	float: none;
 	display: inline-block;
 	color: #83DBC8;
-	max-width: 40%;
+	/*max-width: 40%;*/
 }
 .navbar li a {
 	/*float: right;*/
