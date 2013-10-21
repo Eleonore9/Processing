@@ -45,7 +45,7 @@ body {
 	max-width: 40%;
 }
 .navbar li a {
-	float: right;
+	/*float: right;*/
 }
 /* center canvas */
 canvas {
