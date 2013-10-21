@@ -15,7 +15,7 @@ int delay = 16;
 
 //Setup
 void setup() {
-  size(600, 400);
+  size(800, 600);
   background(#777171);
   noStroke();
   frameRate(10);
