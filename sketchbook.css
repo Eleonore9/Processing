@@ -19,7 +19,7 @@ p {
 body {
 	background-image: url('paper.png');
 }
-.navbar {
+.navbar-default {
 	background-image: url('gplaypattern.png');
 }
 .sketch1 {
@@ -35,7 +35,7 @@ body {
 	display: inline-block;
 }
 /* custom navbar */
-.navbar .brand {
+.navbar-default .brand {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -44,7 +44,7 @@ body {
 	color: #83DBC8;
 	max-width: 40%;
 }
-.navbar li a {
+.navbar-default li a {
 	float: right;
 }
 /* center canvas */
