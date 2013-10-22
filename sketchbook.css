@@ -39,13 +39,14 @@ body {
 	margin-left: 20%;
 	margin-right: auto;
 	text-align: center;
-	float: right;
+	float: none;
 	display: inline-block;
 	color: #299799;
-	padding-left: 2%;
-	/*max-width: 40%;*/
+	padding: 2%;
+	width: 60%;
 }
 .navbar li a {
+
 }
 /* center canvas */
 canvas {
