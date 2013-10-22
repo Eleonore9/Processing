@@ -21,8 +21,6 @@ body {
 }
 .navbar-inner {
 	text-align: center;
-	padding-left: 2%;
-	color: #83DBC8;
 }
 .sketch1 {
 	background-color: #83DBC8;
@@ -43,7 +41,8 @@ body {
 	text-align: center;
 	float: right;
 	display: inline-block;
-	color: #83DBC8;
+	color: #299799;
+	padding-left: 2%;
 	/*max-width: 40%;*/
 }
 .navbar li a {
