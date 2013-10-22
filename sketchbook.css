@@ -36,7 +36,7 @@ body {
 }
 /* custom navbar */
 .navbar .brand {
-	margin-left: auto;
+	margin-left: 20%;
 	margin-right: auto;
 	text-align: center;
 	float: right;
@@ -46,7 +46,6 @@ body {
 	/*max-width: 40%;*/
 }
 .navbar li a {
-	/*float: right;*/
 }
 /* center canvas */
 canvas {
