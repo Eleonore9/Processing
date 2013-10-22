@@ -19,7 +19,9 @@ p {
 body {
 	background-image: url('paper.png');
 }
-.navbar {
+.navbar-inner {
+	text-align: center;
+	padding: 2%;
 	background-image: url('gplaypattern.png');
 }
 .sketch1 {
@@ -27,7 +29,7 @@ body {
 	border-radius: 5px 5px 5px 5px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 5%;
+	margin-top: 6%;
 	padding-top: 2%;
 	padding-left: 4%;
 	padding-right: 4%;
