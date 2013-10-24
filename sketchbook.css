@@ -32,11 +32,16 @@ body {
 	padding: 1%;
 	/*width: 60%;*/
 }
+.nav {
+	color: #70529E;
+}
 .nav:first-of-type {
 	float: left;
+	margin-left: 2%;
 }
 .nav:nth-of-type(2) {
 	float: right;
+	margin-right: 2%;
 }
 /* center canvas */
 canvas {
