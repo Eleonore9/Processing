@@ -15,7 +15,7 @@ On gh-pages branch I use Processing.js to display sketches on a Github page:
 
 * helloWorld
 You can drag circles around with your mouse.
-![helloWorl](https://raw.github.com/Eleonore9/Processing/master/img/sketchbook_hello.png)
+![helloWorld](https://raw.github.com/Eleonore9/Processing/master/img/sketchbook_hello.png)
 
 * Shooting Stars:
 The canvas is blank, you can create stars by dragging the mouse around.
