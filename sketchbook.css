@@ -32,7 +32,7 @@ body {
 	padding: 1%;
 	/*width: 60%;*/
 }
-.nav li{
+.nav a{
 	color: #70529E;
 	padding-top: 1%;
 }
