@@ -32,8 +32,9 @@ body {
 	padding: 1%;
 	/*width: 60%;*/
 }
-.nav {
+.nav li{
 	color: #70529E;
+	padding-top: 1%;
 }
 .nav:first-of-type {
 	float: left;
