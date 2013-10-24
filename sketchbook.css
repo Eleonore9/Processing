@@ -32,8 +32,8 @@ body {
 	padding: 1%;
 	/*width: 60%;*/
 }
-.navbar li a {
-
+.navbar .nav:nth-child(2) {
+	float: right;
 }
 /* center canvas */
 canvas {
