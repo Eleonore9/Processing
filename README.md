@@ -13,7 +13,7 @@ On gh-pages branch I use Processing.js to display sketches on a Github page:
 <a href="http://eleonore9.github.io/Processing/">eleonore9.github.io/Processing</a>
 
 
-* helloWorld
+* helloWorld:
 You can drag circles around with your mouse.
 ![helloWorld](https://raw.github.com/Eleonore9/Processing/master/img/sketchbook_hello.png)
 
