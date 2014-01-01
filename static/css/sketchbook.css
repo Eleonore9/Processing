@@ -1,0 +1,59 @@
+/* text */
+h1, h2, h3, h4, p {
+	text-align: center;
+}
+/* add a background */
+body {
+	background-image: url('static/img/paper.png');
+}
+.navbar-inner {
+	text-align: center;
+}
+.sketch {
+	background-color: #83DBC8;
+	border-radius: 5px 5px 5px 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	padding-top: 2%;
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-bottom: 4%;
+	display: inline-block;
+}
+/* custom navbar */
+.navbar .brand {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	float: none;
+	display: inline-block;
+	color: #299799;
+	padding: 1%;
+	/*width: 60%;*/
+}
+.nav a{
+	color: #70529E;
+	padding-top: 1%;
+}
+.nav:first-of-type {
+	float: left;
+	margin-left: 2%;
+}
+.nav:nth-of-type(2) {
+	float: right;
+	margin-right: 2%;
+}
+/* center canvas */
+canvas {
+	display: inline-block;
+	margin-top: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+/* custom footer */
+footer {
+	margin-top: 10%;
+	text-align: center;
+}
