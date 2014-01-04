@@ -6,7 +6,6 @@ color [] ellip_palette = {#F5C3C3, #A8EAD9, #F8FA90, #D4A8EA, #A8CCEA, #F7B27D, 
 void setup() {
   size(800, 600);
   background(#6397B2);
-  noFill();
 }
 
 //Draw stays empty
@@ -25,9 +24,12 @@ void keyPressed() {
     scale(1.5);
     //style
     background(back);
-    strokeWeight(2);
+    strokeWeight(1.5);
     stroke(ellip);
     //ellipses
+    fill(ellip);
+    ellipse(int(x/2), int(y/2), (int(r)/3),(int(r)/4.5));
+    noFill();
     ellipse(int(x/2), int(y/2), (int(r)*1.5), int(r));
     ellipse(int(x/2), int(y/2), (int(r)*3), (int(r)*2));
     ellipse(int(x/2), int(y/2), (int(r)*4.5), (int(r)*3));
